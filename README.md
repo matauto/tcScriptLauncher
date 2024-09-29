@@ -10,8 +10,6 @@ Application use FLTK gui library which is used natively on TinyCore.
 To compile application on TinyCore you need to download and load two software packets:
 * compiletc.tcz
 * fltk-1.3.9-dev.tcz
-
 ## Scripts
 Scripts included with application in folder ./scripts need to be copied to /mnt/sda1/scripts location
 Scripts need additional TCZ. On beggining of each script tcz-load -i command show you what TCZ you need download.
-

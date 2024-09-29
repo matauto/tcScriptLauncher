@@ -1,3 +1,4 @@
+#!/bin/bash
 tce-load -i libcamera.tcz
 tce-load -i mplayer-cli.tcz
 tce-load -i xdotool.tcz
